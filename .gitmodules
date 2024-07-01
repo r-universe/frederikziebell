@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RNAseqQC"]
+	path = RNAseqQC
+	url = https://github.com/frederikziebell/rnaseqqc
 [submodule "gghist"]
 	path = gghist
 	url = https://github.com/frederikziebell/gghist
